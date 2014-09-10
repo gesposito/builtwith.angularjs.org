@@ -2,6 +2,23 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "Pushline",
+    "thumb": "pushline/thumb.png",
+    "desc": "Android to Mac/PC Notification mirroring and Device control",
+    "url": "http://www.getpushline.com/",
+    "info": "http://www.getpushline.com/faq/",
+    "submitter": "tilt2k",
+    "submissionDate": "2014-09-10",
+    "tags": [
+      "Production",
+      "Productivity",
+      "Animations", "Local Storage",  "WebSocket", "Web Workers", "Encryption", "Notification", "Chrome",
+      "Angular", "DI", "JSON", "Android", "Mobile", "Phone",
+      "Foundation", "HTML5", "CSS3", "Icon Font", "Fonts",
+      "No jQuery"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
@@ -40,7 +57,7 @@
   },
   {
     "name": "buzzlike",
-    "thumb": "buzzlike/thumb.png", 
+    "thumb": "buzzlike/thumb.png",
     "desc": "Digital content interaction tool",
     "url": "http://buzzlike.pro",
     "info": "http://buzzlike.pro/#/about/project",
@@ -1458,7 +1475,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1633,8 +1650,8 @@
       "submitter": "nicmarti",
       "submissionDate": "2013-04-12",
       "tags": [
-        "Production", 
-        "Travel", 
+        "Production",
+        "Travel",
         "jQuery",
         "CSS3",
         "PlayFramework",
@@ -1731,18 +1748,18 @@
       ]
     },
     {
-      "name": "Node Tetrinet",  
-      "thumb": "nodetetrinet/thumb.png", 
-      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io", 
-      "url": "http://net.lo2k.net", 
-      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/", 
-      "src": "https://github.com/xblaster/NodeTetrinet", 
+      "name": "Node Tetrinet",
+      "thumb": "nodetetrinet/thumb.png",
+      "desc": "A multiplayer tetrinet game with angularjs, node.js and socket.io",
+      "url": "http://net.lo2k.net",
+      "info": "http://weblog.lo2k.net/2013/04/node-tetrinet-released/",
+      "src": "https://github.com/xblaster/NodeTetrinet",
       "submitter": "X-Blaster",
       "submissionDate": "2013-04-24",
       "tags": [
-      "Demo", 
-      "Game", 
-      "CSS3D", "WebSocket", 
+      "Demo",
+      "Game",
+      "CSS3D", "WebSocket",
       "jQuery",
       "Open Source"
       ]
